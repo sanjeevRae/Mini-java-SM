@@ -1,4 +1,4 @@
-![forgit](https://github.com/sanjeevRae/Mini-java-SM/blob/main/Screenshot%202025-02-09%20120738.png)
+![forgit](https://github.com/sanjeevRae/Mini-java-SM/blob/main/Screenshot%202025-02-09%20120908.png)
  # Mini-java-SM
  Java Student Management System using Swing, JFrame, Awt, JDBC & Xampp local host
  
